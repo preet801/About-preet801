@@ -3,6 +3,12 @@ Cybersecurity | Programmer | IT enthusiast
 
 Self-motived IT Developer with education in computer science and experience in technical support. Analytical problem solver with a keen curiosity, a passion for learning and a strong attention to detail. Open communicator and collaborator works well in a fast-paced diverse team environment.
 
+Education
+
+Cyber Security and computer Forensics from Lambton College
+
+Bachelors of Computer Applications from G.G.S.I.P.U
+
 Certifications
 
 [CompTIA A+ ce certificate.pdf](https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf)
