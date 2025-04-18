@@ -11,7 +11,7 @@ Bachelors of Computer Applications from G.G.S.I.P.U
 
 Projects
 
-1. <a href="https://github.com/preet801/ELK-STACK.git" alt="elk stack">
+1. ELK STACK <a href="https://github.com/preet801/ELK-STACK.git" alt="elk stack">
 2. HONEYPOT:
 3. SOAR AND EDR:
 4. HOME LAB:
