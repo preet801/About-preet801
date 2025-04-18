@@ -9,6 +9,10 @@ Cyber Security and computer Forensics from Lambton College
 
 Bachelors of Computer Applications from G.G.S.I.P.U
 
+Projects
+
+
+
 Certifications
 
 [CompTIA A+ ce certificate.pdf](https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf)
