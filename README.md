@@ -8,7 +8,7 @@ Certifications
 ![comptia-security-ce-certification](https://github.com/user-attachments/assets/b0a80358-39d1-48af-af20-a34a2966912c)
 [CompTIA A+ ce certificate.pdf](https://github.com/user-attachments/files/19816216/CompTIA.A%2B.ce.certificate.pdf)
 ![comptia-a-ce-certification 1](https://github.com/user-attachments/assets/a34438bc-cecd-4aa2-81fb-32325517ce60)
-<img width="1470" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481" width="100px"/>
+<img width="100" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481" width="100px"/>
 ![verified-international-academic-qualifications 1](https://github.com/user-attachments/assets/9f27e93a-23b0-44ab-aae4-21fd3f0e0ac2)
 [CertificateOfCompletion_IT Help Desk for Beginners-2.pdf](https://github.com/user-attachments/files/19816217/CertificateOfCompletion_IT.Help.Desk.for.Beginners-2.pdf)
 [CertificateOfCompletion_IT Help Desk for Beginners.pdf](https://github.com/user-attachments/files/19816218/CertificateOfCompletion_IT.Help.Desk.for.Beginners.pdf)
