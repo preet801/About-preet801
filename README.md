@@ -1,5 +1,5 @@
 # About-preet801
-Cybersecurity | Programmer | IT enthusiasts 
+Cybersecurity | Programmer | IT enthusiast
 
 Self-motived IT Developer with education in computer science and experience in technical support. Analytical problem solver with a keen curiosity, a passion for learning and a strong attention to detail. Open communicator and collaborator works well in a fast-paced diverse team environment.
 
