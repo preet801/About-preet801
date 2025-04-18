@@ -1,5 +1,7 @@
 # About-preet801
 
+Self-motived IT Developer with education in computer science and experience in technical support. Analytical problem solver with a keen curiosity, a passion for learning and a strong attention to detail. Open communicator and collaborator works well in a fast-paced diverse team environment.
+
 Certifications
 
 [CompTIA A+ ce certificate.pdf](https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf)
