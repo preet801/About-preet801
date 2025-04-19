@@ -26,7 +26,7 @@ view the certification using the following link:
 https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf
 
 <img width="200" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
-<img width="200" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
+<img width="200" src="https://github.com/user-attachments/assets/2dcedc67-73b9-476f-9a27-881a6034a90b"/>
 ![comptia-systems-support-specialist-csss-stackable-certification](https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165)
 ![comptia-linux-ce-certification](https://github.com/user-attachments/assets/2dcedc67-73b9-476f-9a27-881a6034a90b)
 ![comptia-security-ce-certification](https://github.com/user-attachments/assets/b0a80358-39d1-48af-af20-a34a2966912c)
