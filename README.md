@@ -27,9 +27,5 @@ Certifications
 <img width="100" src="https://github.com/user-attachments/assets/b232cdc3-5e38-4915-a582-c652073ccd37"/>
 <img width="100" src="https://github.com/user-attachments/assets/b0a80358-39d1-48af-af20-a34a2966912c"/>
 <img width="500" src="https://github.com/user-attachments/files/19816217/CertificateOfCompletion_IT.Help.Desk.for.Beginners-2.pdf"/>
-
-
-
 <img width="200" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481" width="100px"/>
-![verified-international-academic-qualifications 1](https://github.com/user-attachments/assets/9f27e93a-23b0-44ab-aae4-21fd3f0e0ac2)
 
