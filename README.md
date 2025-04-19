@@ -22,8 +22,6 @@ Projects
 Certifications
 
 <img width="100" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
-view the certification using the following link:
-
 <img width="100" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
 <img width="100" src="https://github.com/user-attachments/assets/2dcedc67-73b9-476f-9a27-881a6034a90b"/>
 <img width="100" src="https://github.com/user-attachments/assets/b232cdc3-5e38-4915-a582-c652073ccd37"/>
