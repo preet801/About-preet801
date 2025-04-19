@@ -5,9 +5,9 @@ Self-motived IT Developer with education in computer science and experience in t
 
 Education
 
-Cyber Security and computer Forensics from Lambton College
+1. Cyber Security and computer Forensics from Lambton College
 
-Bachelors of Computer Applications from G.G.S.I.P.U
+2. Bachelors of Computer Applications from G.G.S.I.P.U
 
 Projects
 
