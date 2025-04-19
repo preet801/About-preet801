@@ -21,7 +21,7 @@ Projects
 
 Certifications
 
-<img width="500" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
+<img width="300" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
 [CompTIA A+ ce certificate.pdf](https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf)
 <img width="500" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
 ![comptia-systems-support-specialist-csss-stackable-certification](https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165)
