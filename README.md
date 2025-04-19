@@ -29,3 +29,4 @@ Certifications
 <img width="100" src="https://github.com/user-attachments/files/19816217/CertificateOfCompletion_IT.Help.Desk.for.Beginners-2.pdf"/>
 <img width="100" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481"/>
 
+<img width ="100" src="https://github.com/user-attachments/files/19823082/CompTIA.Security%2B.ce.certificate.pdf"/>
