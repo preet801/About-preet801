@@ -3,7 +3,7 @@ Cybersecurity | Programmer | Comptia A+ | Comptia Security+ (Expired 2022) | Com
 
 Self-motived IT Developer with education in computer science and experience in technical support. Analytical problem solver with a keen curiosity, a passion for learning and a strong attention to detail. Open communicator and collaborator works well in a fast-paced diverse team environment.
 
-<u><h2>Education</h2></u>
+<h2>Education</h2>
 
 1. Cyber Security and computer Forensics from Lambton College
 
