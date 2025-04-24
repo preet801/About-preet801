@@ -33,3 +33,9 @@ Self-motived IT Developer with education in computer science and experience in t
 <img width ="100" src="https://github.com/user-attachments/files/19823082/CompTIA.Security%2B.ce.certificate.pdf"/>
 
 <img width="100" src="https://app.letsdefend.io/my-rewards/detail/a16fd4e8125c416b8a87cb145cd151f1"/>
+
+<img width="100" src="https://github.com/user-attachments/files/19899737/Certificate.pdf"/>
+
+
+[Certificate.pdf](https://github.com/user-attachments/files/19899737/Certificate.pdf)
+
