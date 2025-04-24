@@ -3,7 +3,7 @@
 
 Self-motived IT Developer with education in computer science and experience in technical support. Analytical problem solver with a keen curiosity, a passion for learning and a strong attention to detail. Open communicator and collaborator works well in a fast-paced diverse team environment.
 
-<button>Click mes</button>
+
 <h2>Education</h2>
 
 1. Cyber Security and computer Forensics from Lambton College
