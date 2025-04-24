@@ -19,7 +19,7 @@ Self-motived IT Developer with education in computer science and experience in t
 
 
 
-Certifications
+<h2>Certifications</h2>
 
 <img width="100" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
 <img width="100" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
