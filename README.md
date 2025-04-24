@@ -9,7 +9,7 @@ Self-motived IT Developer with education in computer science and experience in t
 
 2. Bachelors of Computer Applications from G.G.S.I.P.U
 
-Projects
+<h2>Projects</h2>
 
 1. ELK STACK <a href="https://github.com/preet801/ELK-STACK.git" alt="elk stack">
 2. HONEYPOT:
