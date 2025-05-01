@@ -35,12 +35,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Logos and Badges
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSSS-0000FF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%2B-0A66A3?&style=for-the-badge&logo=Linux&logoColor=white" />
+
 
 
 
@@ -58,7 +60,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 2. Bachelors of Computer Applications from G.G.S.I.P.U
 
 
-<h2>Certifications</h2>
+## Logos and Badges
 
 <img width="100" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
 <img width="100" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
