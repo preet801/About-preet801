@@ -1,7 +1,7 @@
 # About-preet801
 <h3><i>Cybersecurity | Programmer | Comptia A+ (Valid)| Comptia Security+ (Expired 2022) | Comptia Linux+(Expired 2023)</i></h3>
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/harpreet-kaur108"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
