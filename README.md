@@ -72,5 +72,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-       [Certificate.pdf](https://github.com/user-attachments/files/19899737/Certificate.pdf)
 
