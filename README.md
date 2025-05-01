@@ -42,10 +42,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSSS-0000FF?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%2B-0A66A3?&style=for-the-badge&logo=Linux&logoColor=white" />
-
-
-
-
 </div>
 
 ## Projects
@@ -62,19 +58,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Logos and Badges
 <div>
-<img width="100" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
-<img width="100" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
-<img width="100" src="https://github.com/user-attachments/assets/2dcedc67-73b9-476f-9a27-881a6034a90b"/>
-<img width="100" src="https://github.com/user-attachments/assets/b232cdc3-5e38-4915-a582-c652073ccd37"/>
-<img width="100" src="https://github.com/user-attachments/assets/b0a80358-39d1-48af-af20-a34a2966912c"/>
-<img width="100" src="https://github.com/user-attachments/files/19816217/CertificateOfCompletion_IT.Help.Desk.for.Beginners-2.pdf"/>
-<img width="100" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481"/>
-
-<img width ="100" src="https://github.com/user-attachments/files/19823082/CompTIA.Security%2B.ce.certificate.pdf"/>
-
-<img width="100" src="https://github.com/user-attachments/files/19899737/Certificate.pdf"/>
-
-    
+    <img width="100" src="https://github.com/user-attachments/files/19814609/CompTIA.A%2B.ce.certificate.pdf"/>
+    <img width="100" src="https://github.com/user-attachments/assets/66741ee4-593c-4599-90f0-9c465e070165"/>
+    <img width="100" src="https://github.com/user-attachments/assets/2dcedc67-73b9-476f-9a27-881a6034a90b"/>
+    <img width="100" src="https://github.com/user-attachments/assets/b232cdc3-5e38-4915-a582-c652073ccd37"/>
+    <img width="100" src="https://github.com/user-attachments/assets/b0a80358-39d1-48af-af20-a34a2966912c"/>
+    <img width="100" src="https://github.com/user-attachments/files/19816217/CertificateOfCompletion_IT.Help.Desk.for.Beginners-2.pdf"/>
+    <img width="100" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481"/>
+    <img width ="100" src="https://github.com/user-attachments/files/19823082/CompTIA.Security%2B.ce.certificate.pdf"/>
+    <img width="100" src="https://github.com/user-attachments/files/19899737/Certificate.pdf"/> 
 </div>
 
 
