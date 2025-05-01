@@ -3,7 +3,7 @@
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Self-motived IT Developer with education in computer science and experience in technical support. Analytical problem solver with a keen curiosity, a passion for learning and a strong attention to detail. Open communicator and collaborator works well in a fast-paced diverse team environment.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
 <h2>Education</h2>
