@@ -19,8 +19,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 
 ### Network
 <div>
@@ -38,7 +36,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -57,17 +54,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 1. Cyber Security and computer Forensics from Lambton College
 
 2. Bachelors of Computer Applications from G.G.S.I.P.U
-
-
-
-<h2>Projects</h2>
-
-1. ELK STACK <a href="https://github.com/preet801/ELK-STACK.git" alt="elk stack">
-2. HONEYPOT:
-3. SOAR AND EDR:
-4. HOME LAB:
-5. MALWARE ANALYSIS
-
 
 
 <h2>Certifications</h2>
