@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Security Automation with Shuffle SOAR</a>|
 | Honeypot Implementation and analysis          | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Case Management with The Hive</a>|
-| Security Automation with Shuffle LIMACHARLIE  | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Case Management with The Hive</a>|
+| Security Automation with Shuffle LIMACHARLIE  | <a href="https://github.com/preet801/SOAR.git">SOAR with LimaCharlie and Tines</a>|
 
 
 ## Tools
