@@ -66,7 +66,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img width="100" src="https://github.com/user-attachments/assets/b232cdc3-5e38-4915-a582-c652073ccd37"/>
     <img width="100" src="https://github.com/user-attachments/assets/b0a80358-39d1-48af-af20-a34a2966912c"/>
     <img width="150" src="https://github.com/user-attachments/files/19816217/CertificateOfCompletion_IT.Help.Desk.for.Beginners-2.pdf"/>
-    <img width="100" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481"/>
+    <img width="150" alt="udemy-1002" src="https://github.com/user-attachments/assets/9aaee355-f265-4cfb-99a8-c384d833d481"/>
     <img width ="150" src="https://github.com/user-attachments/files/19823082/CompTIA.Security%2B.ce.certificate.pdf"/>
     <img width="150" src="https://github.com/user-attachments/files/19899737/Certificate.pdf"/> 
 </div>
